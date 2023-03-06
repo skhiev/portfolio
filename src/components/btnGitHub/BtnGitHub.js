@@ -10,7 +10,7 @@ const BtnGitHub = ({ link }) => {
       className="btn-outline"
     >
       <img src={gitHubIcon} alt="" />
-      <p>GitHub repo</p>
+      GitHub repo
     </button>
   );
 };
