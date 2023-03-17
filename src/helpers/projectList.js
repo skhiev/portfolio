@@ -25,7 +25,17 @@ import project08Big from "./../img/08-big.jpg";
 import project09 from "./../img/09.jpg";
 import project09Big from "./../img/09-big.jpg";
 
+import project10 from "./../img/10.jpg";
+import project10Big from "./../img/10-big.jpg";
+
 const projects = [
+  {
+    title: "Alowishus Coffee",
+    skills: "HTML, CSS, JS, SCSS",
+    img: project10,
+    imgBig: project10Big,
+    gitHubLink: "https://skhiev.github.io/coffe/",
+  },
   {
     title: "Freelancer portfolio",
     skills: "HTML, CSS, JS",
